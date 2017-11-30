@@ -1,0 +1,29 @@
+background-position: 0px 0px;
+ 
+background-position: 0px -37px;
+ 
+background-position: 0px -74px;
+ 
+background-position: 0px -116px;
+ 
+background-position: 0px -158px;
+ 
+background-position: 0px -200px;
+ 
+background-position: 0px -269px;
+ 
+background-position: 0px -338px;
+ 
+background-position: 0px -407px;
+ 
+background-position: 0px -476px;
+ 
+background-position: 0px -545px;
+ 
+background-position: 0px -614px;
+ 
+background-position: 0px -656px;
+ 
+background-position: 0px -677px;
+ 
+background-position: 0px -698px;
